@@ -1,0 +1,10 @@
+[
+    {
+        "merged": "/Users/andres/Desktop/PM/Labs/10/Lab10-PM/2 badge/RepositoryPattern/app/build/intermediates/incremental/mergeDebugResources/stripped.dir/layout/devbyte_item.xml",
+        "source": "/Users/andres/Desktop/PM/Labs/10/Lab10-PM/2 badge/RepositoryPattern/app/src/main/res/layout/devbyte_item.xml"
+    },
+    {
+        "merged": "/Users/andres/Desktop/PM/Labs/10/Lab10-PM/2 badge/RepositoryPattern/app/build/intermediates/incremental/mergeDebugResources/stripped.dir/layout/fragment_dev_byte.xml",
+        "source": "/Users/andres/Desktop/PM/Labs/10/Lab10-PM/2 badge/RepositoryPattern/app/src/main/res/layout/fragment_dev_byte.xml"
+    }
+]

@@ -1,0 +1,207 @@
+-- Merging decision tree log ---
+manifest
+ADDED from /Users/mvrcentes/Library/CloudStorage/OneDrive-UniversidaddelValledeGuatemala/Documentos/Semestre_4/Programacion_de_plataformas_moviles/Octubre/Semana 3/LaboratorioNo_10_PPM/app/src/main/AndroidManifest.xml:16:1-35:12
+INJECTED from /Users/mvrcentes/Library/CloudStorage/OneDrive-UniversidaddelValledeGuatemala/Documentos/Semestre_4/Programacion_de_plataformas_moviles/Octubre/Semana 3/LaboratorioNo_10_PPM/app/src/main/AndroidManifest.xml:16:1-35:12
+INJECTED from /Users/mvrcentes/Library/CloudStorage/OneDrive-UniversidaddelValledeGuatemala/Documentos/Semestre_4/Programacion_de_plataformas_moviles/Octubre/Semana 3/LaboratorioNo_10_PPM/app/src/main/AndroidManifest.xml:16:1-35:12
+INJECTED from /Users/mvrcentes/Library/CloudStorage/OneDrive-UniversidaddelValledeGuatemala/Documentos/Semestre_4/Programacion_de_plataformas_moviles/Octubre/Semana 3/LaboratorioNo_10_PPM/app/src/main/AndroidManifest.xml:16:1-35:12
+MERGED from [androidx.room:room-ktx:2.3.0] /Users/mvrcentes/.gradle/caches/transforms-3/403e7c429043e7f395489d34a32ddca9/transformed/jetified-room-ktx-2.3.0/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.room:room-runtime:2.3.0] /Users/mvrcentes/.gradle/caches/transforms-3/c4924fb4221199a886f37a56f672a2a1/transformed/room-runtime-2.3.0/AndroidManifest.xml:17:1-31:12
+MERGED from [androidx.core:core-ktx:1.7.0] /Users/mvrcentes/.gradle/caches/transforms-3/40ec4eff7d7ea7dfa3ff7dd1f06745bf/transformed/jetified-core-ktx-1.7.0/AndroidManifest.xml:2:1-9:12
+MERGED from [com.google.android.material:material:1.4.0] /Users/mvrcentes/.gradle/caches/transforms-3/8ecb7a1175ea402d180531200111d257/transformed/material-1.4.0/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.constraintlayout:constraintlayout:2.1.1] /Users/mvrcentes/.gradle/caches/transforms-3/3f03c380b71a9235b158b47dbc2f4255/transformed/constraintlayout-2.1.1/AndroidManifest.xml:2:1-11:12
+MERGED from [androidx.appcompat:appcompat:1.3.1] /Users/mvrcentes/.gradle/caches/transforms-3/a2d8649304ceec13cd7ca5952786df40/transformed/appcompat-1.3.1/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.sqlite:sqlite-framework:2.1.0] /Users/mvrcentes/.gradle/caches/transforms-3/a2f74271f1e35dedaab5b8e1473e4722/transformed/sqlite-framework-2.1.0/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.sqlite:sqlite:2.1.0] /Users/mvrcentes/.gradle/caches/transforms-3/2e96d77b63417f0dd41f8bb2b5c0afde/transformed/sqlite-2.1.0/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.viewpager2:viewpager2:1.0.0] /Users/mvrcentes/.gradle/caches/transforms-3/3705946dee75084f3e0e312fd22678d3/transformed/jetified-viewpager2-1.0.0/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.fragment:fragment:1.3.6] /Users/mvrcentes/.gradle/caches/transforms-3/beec6c683e369eaca0ba1151d23b8a7e/transformed/fragment-1.3.6/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.activity:activity:1.2.4] /Users/mvrcentes/.gradle/caches/transforms-3/397d5bd1e43791cd5c3c7308c7725ad4/transformed/jetified-activity-1.2.4/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.appcompat:appcompat-resources:1.3.1] /Users/mvrcentes/.gradle/caches/transforms-3/3ccbe6b254f5bc52e742725d24e495c9/transformed/jetified-appcompat-resources-1.3.1/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.drawerlayout:drawerlayout:1.0.0] /Users/mvrcentes/.gradle/caches/transforms-3/352f7b3f6e1bff458f76f1961010b556/transformed/drawerlayout-1.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.coordinatorlayout:coordinatorlayout:1.1.0] /Users/mvrcentes/.gradle/caches/transforms-3/4176b62ee9d5403e62f66c0f3975d906/transformed/coordinatorlayout-1.1.0/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.dynamicanimation:dynamicanimation:1.0.0] /Users/mvrcentes/.gradle/caches/transforms-3/ccfe3b00f9cbbbbb56cfed30ebe5a2e3/transformed/dynamicanimation-1.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.transition:transition:1.2.0] /Users/mvrcentes/.gradle/caches/transforms-3/866bae05742a253b16136df94dd5ff2d/transformed/transition-1.2.0/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.vectordrawable:vectordrawable-animated:1.1.0] /Users/mvrcentes/.gradle/caches/transforms-3/265a7a8e178a8f7048ee10bbe0f2b8f1/transformed/vectordrawable-animated-1.1.0/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.vectordrawable:vectordrawable:1.1.0] /Users/mvrcentes/.gradle/caches/transforms-3/da1e2214b9f52e59307fa0113b69d7c2/transformed/vectordrawable-1.1.0/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.viewpager:viewpager:1.0.0] /Users/mvrcentes/.gradle/caches/transforms-3/4f01927fab76c3dc33527e3c7247583f/transformed/viewpager-1.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.legacy:legacy-support-core-utils:1.0.0] /Users/mvrcentes/.gradle/caches/transforms-3/e4e18f9fafcf0c8d0885d8bf793e10d0/transformed/legacy-support-core-utils-1.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.loader:loader:1.0.0] /Users/mvrcentes/.gradle/caches/transforms-3/311578fda0a4c7d2e3610feb12f06c6a/transformed/loader-1.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.recyclerview:recyclerview:1.1.0] /Users/mvrcentes/.gradle/caches/transforms-3/f1f77de8137bb4f4e075924b64e48469/transformed/recyclerview-1.1.0/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.customview:customview:1.0.0] /Users/mvrcentes/.gradle/caches/transforms-3/b1f7ba67f6c05fb73b2497261c035782/transformed/customview-1.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.core:core:1.7.0] /Users/mvrcentes/.gradle/caches/transforms-3/f9bca7928b6fd974653977282867277a/transformed/core-1.7.0/AndroidManifest.xml:17:1-26:12
+MERGED from [androidx.lifecycle:lifecycle-runtime:2.3.1] /Users/mvrcentes/.gradle/caches/transforms-3/1a08b59fa8fd8ecd9823b1b974061231/transformed/lifecycle-runtime-2.3.1/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.lifecycle:lifecycle-viewmodel-savedstate:2.3.1] /Users/mvrcentes/.gradle/caches/transforms-3/6d48791510345c06fc0aa02a13830737/transformed/jetified-lifecycle-viewmodel-savedstate-2.3.1/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.lifecycle:lifecycle-livedata:2.0.0] /Users/mvrcentes/.gradle/caches/transforms-3/0c4ed903c8d1a72ae0ba764fd5e321f2/transformed/lifecycle-livedata-2.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.lifecycle:lifecycle-livedata-core:2.3.1] /Users/mvrcentes/.gradle/caches/transforms-3/7b7fdec68a79048c92714f898940b310/transformed/lifecycle-livedata-core-2.3.1/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.arch.core:core-runtime:2.1.0] /Users/mvrcentes/.gradle/caches/transforms-3/95e3ef5dc995235603c9657ddfe037e4/transformed/core-runtime-2.1.0/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.annotation:annotation-experimental:1.1.0] /Users/mvrcentes/.gradle/caches/transforms-3/63cb72d8574720fcd64e70131f3114e6/transformed/jetified-annotation-experimental-1.1.0/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.cursoradapter:cursoradapter:1.0.0] /Users/mvrcentes/.gradle/caches/transforms-3/ba1fdb0d727a7a9aa94fca020ded8545/transformed/cursoradapter-1.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.savedstate:savedstate:1.1.0] /Users/mvrcentes/.gradle/caches/transforms-3/746f7e076c8d6497ec098d944fe95e1d/transformed/jetified-savedstate-1.1.0/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.lifecycle:lifecycle-viewmodel:2.3.1] /Users/mvrcentes/.gradle/caches/transforms-3/b4928889b17d05999bfc754a198057d5/transformed/lifecycle-viewmodel-2.3.1/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.cardview:cardview:1.0.0] /Users/mvrcentes/.gradle/caches/transforms-3/8c8052ae76729743d4379af6166a137a/transformed/cardview-1.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.1] /Users/mvrcentes/.gradle/caches/transforms-3/9db4eaa72acfaba25819a4d8ebc6dffa/transformed/versionedparcelable-1.1.1/AndroidManifest.xml:17:1-27:12
+MERGED from [androidx.tracing:tracing:1.0.0] /Users/mvrcentes/.gradle/caches/transforms-3/c50a0e2b48385794d2b1dc1e6694c93f/transformed/jetified-tracing-1.0.0/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.interpolator:interpolator:1.0.0] /Users/mvrcentes/.gradle/caches/transforms-3/9eafcf623f5301cb2e80e78cd6ee896c/transformed/interpolator-1.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.documentfile:documentfile:1.0.0] /Users/mvrcentes/.gradle/caches/transforms-3/507a3ed65f1887f75051863c3ad222d3/transformed/documentfile-1.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.localbroadcastmanager:localbroadcastmanager:1.0.0] /Users/mvrcentes/.gradle/caches/transforms-3/4128df88b21c5f07bb76f89c247d41d7/transformed/localbroadcastmanager-1.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.print:print:1.0.0] /Users/mvrcentes/.gradle/caches/transforms-3/aead392531a196afd497910f55645b81/transformed/print-1.0.0/AndroidManifest.xml:17:1-22:12
+INJECTED from /Users/mvrcentes/Library/CloudStorage/OneDrive-UniversidaddelValledeGuatemala/Documentos/Semestre_4/Programacion_de_plataformas_moviles/Octubre/Semana 3/LaboratorioNo_10_PPM/app/src/main/AndroidManifest.xml:16:1-35:12
+INJECTED from /Users/mvrcentes/Library/CloudStorage/OneDrive-UniversidaddelValledeGuatemala/Documentos/Semestre_4/Programacion_de_plataformas_moviles/Octubre/Semana 3/LaboratorioNo_10_PPM/app/src/main/AndroidManifest.xml:16:1-35:12
+INJECTED from /Users/mvrcentes/Library/CloudStorage/OneDrive-UniversidaddelValledeGuatemala/Documentos/Semestre_4/Programacion_de_plataformas_moviles/Octubre/Semana 3/LaboratorioNo_10_PPM/app/src/main/AndroidManifest.xml:16:1-35:12
+	package
+		ADDED from /Users/mvrcentes/Library/CloudStorage/OneDrive-UniversidaddelValledeGuatemala/Documentos/Semestre_4/Programacion_de_plataformas_moviles/Octubre/Semana 3/LaboratorioNo_10_PPM/app/src/main/AndroidManifest.xml:17:5-36
+		INJECTED from /Users/mvrcentes/Library/CloudStorage/OneDrive-UniversidaddelValledeGuatemala/Documentos/Semestre_4/Programacion_de_plataformas_moviles/Octubre/Semana 3/LaboratorioNo_10_PPM/app/src/main/AndroidManifest.xml
+		INJECTED from /Users/mvrcentes/Library/CloudStorage/OneDrive-UniversidaddelValledeGuatemala/Documentos/Semestre_4/Programacion_de_plataformas_moviles/Octubre/Semana 3/LaboratorioNo_10_PPM/app/src/main/AndroidManifest.xml
+	android:versionName
+		INJECTED from /Users/mvrcentes/Library/CloudStorage/OneDrive-UniversidaddelValledeGuatemala/Documentos/Semestre_4/Programacion_de_plataformas_moviles/Octubre/Semana 3/LaboratorioNo_10_PPM/app/src/main/AndroidManifest.xml
+		ADDED from /Users/mvrcentes/Library/CloudStorage/OneDrive-UniversidaddelValledeGuatemala/Documentos/Semestre_4/Programacion_de_plataformas_moviles/Octubre/Semana 3/LaboratorioNo_10_PPM/app/src/main/AndroidManifest.xml:16:1-35:12
+		INJECTED from /Users/mvrcentes/Library/CloudStorage/OneDrive-UniversidaddelValledeGuatemala/Documentos/Semestre_4/Programacion_de_plataformas_moviles/Octubre/Semana 3/LaboratorioNo_10_PPM/app/src/main/AndroidManifest.xml
+	android:versionCode
+		INJECTED from /Users/mvrcentes/Library/CloudStorage/OneDrive-UniversidaddelValledeGuatemala/Documentos/Semestre_4/Programacion_de_plataformas_moviles/Octubre/Semana 3/LaboratorioNo_10_PPM/app/src/main/AndroidManifest.xml
+		ADDED from /Users/mvrcentes/Library/CloudStorage/OneDrive-UniversidaddelValledeGuatemala/Documentos/Semestre_4/Programacion_de_plataformas_moviles/Octubre/Semana 3/LaboratorioNo_10_PPM/app/src/main/AndroidManifest.xml:16:1-35:12
+		INJECTED from /Users/mvrcentes/Library/CloudStorage/OneDrive-UniversidaddelValledeGuatemala/Documentos/Semestre_4/Programacion_de_plataformas_moviles/Octubre/Semana 3/LaboratorioNo_10_PPM/app/src/main/AndroidManifest.xml
+	xmlns:android
+		ADDED from /Users/mvrcentes/Library/CloudStorage/OneDrive-UniversidaddelValledeGuatemala/Documentos/Semestre_4/Programacion_de_plataformas_moviles/Octubre/Semana 3/LaboratorioNo_10_PPM/app/src/main/AndroidManifest.xml:16:11-69
+application
+ADDED from /Users/mvrcentes/Library/CloudStorage/OneDrive-UniversidaddelValledeGuatemala/Documentos/Semestre_4/Programacion_de_plataformas_moviles/Octubre/Semana 3/LaboratorioNo_10_PPM/app/src/main/AndroidManifest.xml:19:5-33:19
+MERGED from [androidx.room:room-runtime:2.3.0] /Users/mvrcentes/.gradle/caches/transforms-3/c4924fb4221199a886f37a56f672a2a1/transformed/room-runtime-2.3.0/AndroidManifest.xml:24:5-29:19
+MERGED from [androidx.room:room-runtime:2.3.0] /Users/mvrcentes/.gradle/caches/transforms-3/c4924fb4221199a886f37a56f672a2a1/transformed/room-runtime-2.3.0/AndroidManifest.xml:24:5-29:19
+MERGED from [com.google.android.material:material:1.4.0] /Users/mvrcentes/.gradle/caches/transforms-3/8ecb7a1175ea402d180531200111d257/transformed/material-1.4.0/AndroidManifest.xml:22:5-20
+MERGED from [com.google.android.material:material:1.4.0] /Users/mvrcentes/.gradle/caches/transforms-3/8ecb7a1175ea402d180531200111d257/transformed/material-1.4.0/AndroidManifest.xml:22:5-20
+MERGED from [androidx.constraintlayout:constraintlayout:2.1.1] /Users/mvrcentes/.gradle/caches/transforms-3/3f03c380b71a9235b158b47dbc2f4255/transformed/constraintlayout-2.1.1/AndroidManifest.xml:9:5-20
+MERGED from [androidx.constraintlayout:constraintlayout:2.1.1] /Users/mvrcentes/.gradle/caches/transforms-3/3f03c380b71a9235b158b47dbc2f4255/transformed/constraintlayout-2.1.1/AndroidManifest.xml:9:5-20
+MERGED from [androidx.core:core:1.7.0] /Users/mvrcentes/.gradle/caches/transforms-3/f9bca7928b6fd974653977282867277a/transformed/core-1.7.0/AndroidManifest.xml:24:5-89
+MERGED from [androidx.core:core:1.7.0] /Users/mvrcentes/.gradle/caches/transforms-3/f9bca7928b6fd974653977282867277a/transformed/core-1.7.0/AndroidManifest.xml:24:5-89
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.1] /Users/mvrcentes/.gradle/caches/transforms-3/9db4eaa72acfaba25819a4d8ebc6dffa/transformed/versionedparcelable-1.1.1/AndroidManifest.xml:24:5-25:19
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.1] /Users/mvrcentes/.gradle/caches/transforms-3/9db4eaa72acfaba25819a4d8ebc6dffa/transformed/versionedparcelable-1.1.1/AndroidManifest.xml:24:5-25:19
+	android:appComponentFactory
+		ADDED from [androidx.core:core:1.7.0] /Users/mvrcentes/.gradle/caches/transforms-3/f9bca7928b6fd974653977282867277a/transformed/core-1.7.0/AndroidManifest.xml:24:18-86
+	android:supportsRtl
+		ADDED from /Users/mvrcentes/Library/CloudStorage/OneDrive-UniversidaddelValledeGuatemala/Documentos/Semestre_4/Programacion_de_plataformas_moviles/Octubre/Semana 3/LaboratorioNo_10_PPM/app/src/main/AndroidManifest.xml:24:9-35
+	android:label
+		ADDED from /Users/mvrcentes/Library/CloudStorage/OneDrive-UniversidaddelValledeGuatemala/Documentos/Semestre_4/Programacion_de_plataformas_moviles/Octubre/Semana 3/LaboratorioNo_10_PPM/app/src/main/AndroidManifest.xml:22:9-41
+	android:roundIcon
+		ADDED from /Users/mvrcentes/Library/CloudStorage/OneDrive-UniversidaddelValledeGuatemala/Documentos/Semestre_4/Programacion_de_plataformas_moviles/Octubre/Semana 3/LaboratorioNo_10_PPM/app/src/main/AndroidManifest.xml:23:9-54
+	android:icon
+		ADDED from /Users/mvrcentes/Library/CloudStorage/OneDrive-UniversidaddelValledeGuatemala/Documentos/Semestre_4/Programacion_de_plataformas_moviles/Octubre/Semana 3/LaboratorioNo_10_PPM/app/src/main/AndroidManifest.xml:21:9-43
+	android:allowBackup
+		ADDED from /Users/mvrcentes/Library/CloudStorage/OneDrive-UniversidaddelValledeGuatemala/Documentos/Semestre_4/Programacion_de_plataformas_moviles/Octubre/Semana 3/LaboratorioNo_10_PPM/app/src/main/AndroidManifest.xml:20:9-35
+	android:theme
+		ADDED from /Users/mvrcentes/Library/CloudStorage/OneDrive-UniversidaddelValledeGuatemala/Documentos/Semestre_4/Programacion_de_plataformas_moviles/Octubre/Semana 3/LaboratorioNo_10_PPM/app/src/main/AndroidManifest.xml:25:9-47
+activity#com.example.sqlbasics.MainActivity
+ADDED from /Users/mvrcentes/Library/CloudStorage/OneDrive-UniversidaddelValledeGuatemala/Documentos/Semestre_4/Programacion_de_plataformas_moviles/Octubre/Semana 3/LaboratorioNo_10_PPM/app/src/main/AndroidManifest.xml:26:9-32:20
+	android:exported
+		ADDED from /Users/mvrcentes/Library/CloudStorage/OneDrive-UniversidaddelValledeGuatemala/Documentos/Semestre_4/Programacion_de_plataformas_moviles/Octubre/Semana 3/LaboratorioNo_10_PPM/app/src/main/AndroidManifest.xml:27:13-36
+	android:name
+		ADDED from /Users/mvrcentes/Library/CloudStorage/OneDrive-UniversidaddelValledeGuatemala/Documentos/Semestre_4/Programacion_de_plataformas_moviles/Octubre/Semana 3/LaboratorioNo_10_PPM/app/src/main/AndroidManifest.xml:26:19-47
+intent-filter#action:name:android.intent.action.MAIN+category:name:android.intent.category.LAUNCHER
+ADDED from /Users/mvrcentes/Library/CloudStorage/OneDrive-UniversidaddelValledeGuatemala/Documentos/Semestre_4/Programacion_de_plataformas_moviles/Octubre/Semana 3/LaboratorioNo_10_PPM/app/src/main/AndroidManifest.xml:28:13-31:29
+action#android.intent.action.MAIN
+ADDED from /Users/mvrcentes/Library/CloudStorage/OneDrive-UniversidaddelValledeGuatemala/Documentos/Semestre_4/Programacion_de_plataformas_moviles/Octubre/Semana 3/LaboratorioNo_10_PPM/app/src/main/AndroidManifest.xml:29:17-69
+	android:name
+		ADDED from /Users/mvrcentes/Library/CloudStorage/OneDrive-UniversidaddelValledeGuatemala/Documentos/Semestre_4/Programacion_de_plataformas_moviles/Octubre/Semana 3/LaboratorioNo_10_PPM/app/src/main/AndroidManifest.xml:29:25-66
+category#android.intent.category.LAUNCHER
+ADDED from /Users/mvrcentes/Library/CloudStorage/OneDrive-UniversidaddelValledeGuatemala/Documentos/Semestre_4/Programacion_de_plataformas_moviles/Octubre/Semana 3/LaboratorioNo_10_PPM/app/src/main/AndroidManifest.xml:30:17-77
+	android:name
+		ADDED from /Users/mvrcentes/Library/CloudStorage/OneDrive-UniversidaddelValledeGuatemala/Documentos/Semestre_4/Programacion_de_plataformas_moviles/Octubre/Semana 3/LaboratorioNo_10_PPM/app/src/main/AndroidManifest.xml:30:27-74
+uses-sdk
+INJECTED from /Users/mvrcentes/Library/CloudStorage/OneDrive-UniversidaddelValledeGuatemala/Documentos/Semestre_4/Programacion_de_plataformas_moviles/Octubre/Semana 3/LaboratorioNo_10_PPM/app/src/main/AndroidManifest.xml reason: use-sdk injection requested
+INJECTED from /Users/mvrcentes/Library/CloudStorage/OneDrive-UniversidaddelValledeGuatemala/Documentos/Semestre_4/Programacion_de_plataformas_moviles/Octubre/Semana 3/LaboratorioNo_10_PPM/app/src/main/AndroidManifest.xml
+INJECTED from /Users/mvrcentes/Library/CloudStorage/OneDrive-UniversidaddelValledeGuatemala/Documentos/Semestre_4/Programacion_de_plataformas_moviles/Octubre/Semana 3/LaboratorioNo_10_PPM/app/src/main/AndroidManifest.xml
+MERGED from [androidx.room:room-ktx:2.3.0] /Users/mvrcentes/.gradle/caches/transforms-3/403e7c429043e7f395489d34a32ddca9/transformed/jetified-room-ktx-2.3.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.room:room-ktx:2.3.0] /Users/mvrcentes/.gradle/caches/transforms-3/403e7c429043e7f395489d34a32ddca9/transformed/jetified-room-ktx-2.3.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.room:room-runtime:2.3.0] /Users/mvrcentes/.gradle/caches/transforms-3/c4924fb4221199a886f37a56f672a2a1/transformed/room-runtime-2.3.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.room:room-runtime:2.3.0] /Users/mvrcentes/.gradle/caches/transforms-3/c4924fb4221199a886f37a56f672a2a1/transformed/room-runtime-2.3.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.core:core-ktx:1.7.0] /Users/mvrcentes/.gradle/caches/transforms-3/40ec4eff7d7ea7dfa3ff7dd1f06745bf/transformed/jetified-core-ktx-1.7.0/AndroidManifest.xml:5:5-7:41
+MERGED from [androidx.core:core-ktx:1.7.0] /Users/mvrcentes/.gradle/caches/transforms-3/40ec4eff7d7ea7dfa3ff7dd1f06745bf/transformed/jetified-core-ktx-1.7.0/AndroidManifest.xml:5:5-7:41
+MERGED from [com.google.android.material:material:1.4.0] /Users/mvrcentes/.gradle/caches/transforms-3/8ecb7a1175ea402d180531200111d257/transformed/material-1.4.0/AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.material:material:1.4.0] /Users/mvrcentes/.gradle/caches/transforms-3/8ecb7a1175ea402d180531200111d257/transformed/material-1.4.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.constraintlayout:constraintlayout:2.1.1] /Users/mvrcentes/.gradle/caches/transforms-3/3f03c380b71a9235b158b47dbc2f4255/transformed/constraintlayout-2.1.1/AndroidManifest.xml:5:5-7:41
+MERGED from [androidx.constraintlayout:constraintlayout:2.1.1] /Users/mvrcentes/.gradle/caches/transforms-3/3f03c380b71a9235b158b47dbc2f4255/transformed/constraintlayout-2.1.1/AndroidManifest.xml:5:5-7:41
+MERGED from [androidx.appcompat:appcompat:1.3.1] /Users/mvrcentes/.gradle/caches/transforms-3/a2d8649304ceec13cd7ca5952786df40/transformed/appcompat-1.3.1/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.appcompat:appcompat:1.3.1] /Users/mvrcentes/.gradle/caches/transforms-3/a2d8649304ceec13cd7ca5952786df40/transformed/appcompat-1.3.1/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.sqlite:sqlite-framework:2.1.0] /Users/mvrcentes/.gradle/caches/transforms-3/a2f74271f1e35dedaab5b8e1473e4722/transformed/sqlite-framework-2.1.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.sqlite:sqlite-framework:2.1.0] /Users/mvrcentes/.gradle/caches/transforms-3/a2f74271f1e35dedaab5b8e1473e4722/transformed/sqlite-framework-2.1.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.sqlite:sqlite:2.1.0] /Users/mvrcentes/.gradle/caches/transforms-3/2e96d77b63417f0dd41f8bb2b5c0afde/transformed/sqlite-2.1.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.sqlite:sqlite:2.1.0] /Users/mvrcentes/.gradle/caches/transforms-3/2e96d77b63417f0dd41f8bb2b5c0afde/transformed/sqlite-2.1.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.viewpager2:viewpager2:1.0.0] /Users/mvrcentes/.gradle/caches/transforms-3/3705946dee75084f3e0e312fd22678d3/transformed/jetified-viewpager2-1.0.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.viewpager2:viewpager2:1.0.0] /Users/mvrcentes/.gradle/caches/transforms-3/3705946dee75084f3e0e312fd22678d3/transformed/jetified-viewpager2-1.0.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.fragment:fragment:1.3.6] /Users/mvrcentes/.gradle/caches/transforms-3/beec6c683e369eaca0ba1151d23b8a7e/transformed/fragment-1.3.6/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.fragment:fragment:1.3.6] /Users/mvrcentes/.gradle/caches/transforms-3/beec6c683e369eaca0ba1151d23b8a7e/transformed/fragment-1.3.6/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.activity:activity:1.2.4] /Users/mvrcentes/.gradle/caches/transforms-3/397d5bd1e43791cd5c3c7308c7725ad4/transformed/jetified-activity-1.2.4/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.activity:activity:1.2.4] /Users/mvrcentes/.gradle/caches/transforms-3/397d5bd1e43791cd5c3c7308c7725ad4/transformed/jetified-activity-1.2.4/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.appcompat:appcompat-resources:1.3.1] /Users/mvrcentes/.gradle/caches/transforms-3/3ccbe6b254f5bc52e742725d24e495c9/transformed/jetified-appcompat-resources-1.3.1/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.appcompat:appcompat-resources:1.3.1] /Users/mvrcentes/.gradle/caches/transforms-3/3ccbe6b254f5bc52e742725d24e495c9/transformed/jetified-appcompat-resources-1.3.1/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.drawerlayout:drawerlayout:1.0.0] /Users/mvrcentes/.gradle/caches/transforms-3/352f7b3f6e1bff458f76f1961010b556/transformed/drawerlayout-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.drawerlayout:drawerlayout:1.0.0] /Users/mvrcentes/.gradle/caches/transforms-3/352f7b3f6e1bff458f76f1961010b556/transformed/drawerlayout-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.coordinatorlayout:coordinatorlayout:1.1.0] /Users/mvrcentes/.gradle/caches/transforms-3/4176b62ee9d5403e62f66c0f3975d906/transformed/coordinatorlayout-1.1.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.coordinatorlayout:coordinatorlayout:1.1.0] /Users/mvrcentes/.gradle/caches/transforms-3/4176b62ee9d5403e62f66c0f3975d906/transformed/coordinatorlayout-1.1.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.dynamicanimation:dynamicanimation:1.0.0] /Users/mvrcentes/.gradle/caches/transforms-3/ccfe3b00f9cbbbbb56cfed30ebe5a2e3/transformed/dynamicanimation-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.dynamicanimation:dynamicanimation:1.0.0] /Users/mvrcentes/.gradle/caches/transforms-3/ccfe3b00f9cbbbbb56cfed30ebe5a2e3/transformed/dynamicanimation-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.transition:transition:1.2.0] /Users/mvrcentes/.gradle/caches/transforms-3/866bae05742a253b16136df94dd5ff2d/transformed/transition-1.2.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.transition:transition:1.2.0] /Users/mvrcentes/.gradle/caches/transforms-3/866bae05742a253b16136df94dd5ff2d/transformed/transition-1.2.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.vectordrawable:vectordrawable-animated:1.1.0] /Users/mvrcentes/.gradle/caches/transforms-3/265a7a8e178a8f7048ee10bbe0f2b8f1/transformed/vectordrawable-animated-1.1.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.vectordrawable:vectordrawable-animated:1.1.0] /Users/mvrcentes/.gradle/caches/transforms-3/265a7a8e178a8f7048ee10bbe0f2b8f1/transformed/vectordrawable-animated-1.1.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.vectordrawable:vectordrawable:1.1.0] /Users/mvrcentes/.gradle/caches/transforms-3/da1e2214b9f52e59307fa0113b69d7c2/transformed/vectordrawable-1.1.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.vectordrawable:vectordrawable:1.1.0] /Users/mvrcentes/.gradle/caches/transforms-3/da1e2214b9f52e59307fa0113b69d7c2/transformed/vectordrawable-1.1.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.viewpager:viewpager:1.0.0] /Users/mvrcentes/.gradle/caches/transforms-3/4f01927fab76c3dc33527e3c7247583f/transformed/viewpager-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.viewpager:viewpager:1.0.0] /Users/mvrcentes/.gradle/caches/transforms-3/4f01927fab76c3dc33527e3c7247583f/transformed/viewpager-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.legacy:legacy-support-core-utils:1.0.0] /Users/mvrcentes/.gradle/caches/transforms-3/e4e18f9fafcf0c8d0885d8bf793e10d0/transformed/legacy-support-core-utils-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.legacy:legacy-support-core-utils:1.0.0] /Users/mvrcentes/.gradle/caches/transforms-3/e4e18f9fafcf0c8d0885d8bf793e10d0/transformed/legacy-support-core-utils-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.loader:loader:1.0.0] /Users/mvrcentes/.gradle/caches/transforms-3/311578fda0a4c7d2e3610feb12f06c6a/transformed/loader-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.loader:loader:1.0.0] /Users/mvrcentes/.gradle/caches/transforms-3/311578fda0a4c7d2e3610feb12f06c6a/transformed/loader-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.recyclerview:recyclerview:1.1.0] /Users/mvrcentes/.gradle/caches/transforms-3/f1f77de8137bb4f4e075924b64e48469/transformed/recyclerview-1.1.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.recyclerview:recyclerview:1.1.0] /Users/mvrcentes/.gradle/caches/transforms-3/f1f77de8137bb4f4e075924b64e48469/transformed/recyclerview-1.1.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.customview:customview:1.0.0] /Users/mvrcentes/.gradle/caches/transforms-3/b1f7ba67f6c05fb73b2497261c035782/transformed/customview-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.customview:customview:1.0.0] /Users/mvrcentes/.gradle/caches/transforms-3/b1f7ba67f6c05fb73b2497261c035782/transformed/customview-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.core:core:1.7.0] /Users/mvrcentes/.gradle/caches/transforms-3/f9bca7928b6fd974653977282867277a/transformed/core-1.7.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.core:core:1.7.0] /Users/mvrcentes/.gradle/caches/transforms-3/f9bca7928b6fd974653977282867277a/transformed/core-1.7.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.lifecycle:lifecycle-runtime:2.3.1] /Users/mvrcentes/.gradle/caches/transforms-3/1a08b59fa8fd8ecd9823b1b974061231/transformed/lifecycle-runtime-2.3.1/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.lifecycle:lifecycle-runtime:2.3.1] /Users/mvrcentes/.gradle/caches/transforms-3/1a08b59fa8fd8ecd9823b1b974061231/transformed/lifecycle-runtime-2.3.1/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.lifecycle:lifecycle-viewmodel-savedstate:2.3.1] /Users/mvrcentes/.gradle/caches/transforms-3/6d48791510345c06fc0aa02a13830737/transformed/jetified-lifecycle-viewmodel-savedstate-2.3.1/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.lifecycle:lifecycle-viewmodel-savedstate:2.3.1] /Users/mvrcentes/.gradle/caches/transforms-3/6d48791510345c06fc0aa02a13830737/transformed/jetified-lifecycle-viewmodel-savedstate-2.3.1/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.lifecycle:lifecycle-livedata:2.0.0] /Users/mvrcentes/.gradle/caches/transforms-3/0c4ed903c8d1a72ae0ba764fd5e321f2/transformed/lifecycle-livedata-2.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-livedata:2.0.0] /Users/mvrcentes/.gradle/caches/transforms-3/0c4ed903c8d1a72ae0ba764fd5e321f2/transformed/lifecycle-livedata-2.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-livedata-core:2.3.1] /Users/mvrcentes/.gradle/caches/transforms-3/7b7fdec68a79048c92714f898940b310/transformed/lifecycle-livedata-core-2.3.1/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.lifecycle:lifecycle-livedata-core:2.3.1] /Users/mvrcentes/.gradle/caches/transforms-3/7b7fdec68a79048c92714f898940b310/transformed/lifecycle-livedata-core-2.3.1/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.arch.core:core-runtime:2.1.0] /Users/mvrcentes/.gradle/caches/transforms-3/95e3ef5dc995235603c9657ddfe037e4/transformed/core-runtime-2.1.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.arch.core:core-runtime:2.1.0] /Users/mvrcentes/.gradle/caches/transforms-3/95e3ef5dc995235603c9657ddfe037e4/transformed/core-runtime-2.1.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.annotation:annotation-experimental:1.1.0] /Users/mvrcentes/.gradle/caches/transforms-3/63cb72d8574720fcd64e70131f3114e6/transformed/jetified-annotation-experimental-1.1.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.annotation:annotation-experimental:1.1.0] /Users/mvrcentes/.gradle/caches/transforms-3/63cb72d8574720fcd64e70131f3114e6/transformed/jetified-annotation-experimental-1.1.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.cursoradapter:cursoradapter:1.0.0] /Users/mvrcentes/.gradle/caches/transforms-3/ba1fdb0d727a7a9aa94fca020ded8545/transformed/cursoradapter-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.cursoradapter:cursoradapter:1.0.0] /Users/mvrcentes/.gradle/caches/transforms-3/ba1fdb0d727a7a9aa94fca020ded8545/transformed/cursoradapter-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.savedstate:savedstate:1.1.0] /Users/mvrcentes/.gradle/caches/transforms-3/746f7e076c8d6497ec098d944fe95e1d/transformed/jetified-savedstate-1.1.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.savedstate:savedstate:1.1.0] /Users/mvrcentes/.gradle/caches/transforms-3/746f7e076c8d6497ec098d944fe95e1d/transformed/jetified-savedstate-1.1.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.lifecycle:lifecycle-viewmodel:2.3.1] /Users/mvrcentes/.gradle/caches/transforms-3/b4928889b17d05999bfc754a198057d5/transformed/lifecycle-viewmodel-2.3.1/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.lifecycle:lifecycle-viewmodel:2.3.1] /Users/mvrcentes/.gradle/caches/transforms-3/b4928889b17d05999bfc754a198057d5/transformed/lifecycle-viewmodel-2.3.1/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.cardview:cardview:1.0.0] /Users/mvrcentes/.gradle/caches/transforms-3/8c8052ae76729743d4379af6166a137a/transformed/cardview-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.cardview:cardview:1.0.0] /Users/mvrcentes/.gradle/caches/transforms-3/8c8052ae76729743d4379af6166a137a/transformed/cardview-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.1] /Users/mvrcentes/.gradle/caches/transforms-3/9db4eaa72acfaba25819a4d8ebc6dffa/transformed/versionedparcelable-1.1.1/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.1] /Users/mvrcentes/.gradle/caches/transforms-3/9db4eaa72acfaba25819a4d8ebc6dffa/transformed/versionedparcelable-1.1.1/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.tracing:tracing:1.0.0] /Users/mvrcentes/.gradle/caches/transforms-3/c50a0e2b48385794d2b1dc1e6694c93f/transformed/jetified-tracing-1.0.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.tracing:tracing:1.0.0] /Users/mvrcentes/.gradle/caches/transforms-3/c50a0e2b48385794d2b1dc1e6694c93f/transformed/jetified-tracing-1.0.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.interpolator:interpolator:1.0.0] /Users/mvrcentes/.gradle/caches/transforms-3/9eafcf623f5301cb2e80e78cd6ee896c/transformed/interpolator-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.interpolator:interpolator:1.0.0] /Users/mvrcentes/.gradle/caches/transforms-3/9eafcf623f5301cb2e80e78cd6ee896c/transformed/interpolator-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.documentfile:documentfile:1.0.0] /Users/mvrcentes/.gradle/caches/transforms-3/507a3ed65f1887f75051863c3ad222d3/transformed/documentfile-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.documentfile:documentfile:1.0.0] /Users/mvrcentes/.gradle/caches/transforms-3/507a3ed65f1887f75051863c3ad222d3/transformed/documentfile-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.localbroadcastmanager:localbroadcastmanager:1.0.0] /Users/mvrcentes/.gradle/caches/transforms-3/4128df88b21c5f07bb76f89c247d41d7/transformed/localbroadcastmanager-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.localbroadcastmanager:localbroadcastmanager:1.0.0] /Users/mvrcentes/.gradle/caches/transforms-3/4128df88b21c5f07bb76f89c247d41d7/transformed/localbroadcastmanager-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.print:print:1.0.0] /Users/mvrcentes/.gradle/caches/transforms-3/aead392531a196afd497910f55645b81/transformed/print-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.print:print:1.0.0] /Users/mvrcentes/.gradle/caches/transforms-3/aead392531a196afd497910f55645b81/transformed/print-1.0.0/AndroidManifest.xml:20:5-44
+INJECTED from /Users/mvrcentes/Library/CloudStorage/OneDrive-UniversidaddelValledeGuatemala/Documentos/Semestre_4/Programacion_de_plataformas_moviles/Octubre/Semana 3/LaboratorioNo_10_PPM/app/src/main/AndroidManifest.xml
+INJECTED from /Users/mvrcentes/Library/CloudStorage/OneDrive-UniversidaddelValledeGuatemala/Documentos/Semestre_4/Programacion_de_plataformas_moviles/Octubre/Semana 3/LaboratorioNo_10_PPM/app/src/main/AndroidManifest.xml
+	android:targetSdkVersion
+		INJECTED from /Users/mvrcentes/Library/CloudStorage/OneDrive-UniversidaddelValledeGuatemala/Documentos/Semestre_4/Programacion_de_plataformas_moviles/Octubre/Semana 3/LaboratorioNo_10_PPM/app/src/main/AndroidManifest.xml
+		ADDED from /Users/mvrcentes/Library/CloudStorage/OneDrive-UniversidaddelValledeGuatemala/Documentos/Semestre_4/Programacion_de_plataformas_moviles/Octubre/Semana 3/LaboratorioNo_10_PPM/app/src/main/AndroidManifest.xml
+		INJECTED from /Users/mvrcentes/Library/CloudStorage/OneDrive-UniversidaddelValledeGuatemala/Documentos/Semestre_4/Programacion_de_plataformas_moviles/Octubre/Semana 3/LaboratorioNo_10_PPM/app/src/main/AndroidManifest.xml
+	android:minSdkVersion
+		INJECTED from /Users/mvrcentes/Library/CloudStorage/OneDrive-UniversidaddelValledeGuatemala/Documentos/Semestre_4/Programacion_de_plataformas_moviles/Octubre/Semana 3/LaboratorioNo_10_PPM/app/src/main/AndroidManifest.xml
+		ADDED from /Users/mvrcentes/Library/CloudStorage/OneDrive-UniversidaddelValledeGuatemala/Documentos/Semestre_4/Programacion_de_plataformas_moviles/Octubre/Semana 3/LaboratorioNo_10_PPM/app/src/main/AndroidManifest.xml
+		INJECTED from /Users/mvrcentes/Library/CloudStorage/OneDrive-UniversidaddelValledeGuatemala/Documentos/Semestre_4/Programacion_de_plataformas_moviles/Octubre/Semana 3/LaboratorioNo_10_PPM/app/src/main/AndroidManifest.xml
+service#androidx.room.MultiInstanceInvalidationService
+ADDED from [androidx.room:room-runtime:2.3.0] /Users/mvrcentes/.gradle/caches/transforms-3/c4924fb4221199a886f37a56f672a2a1/transformed/room-runtime-2.3.0/AndroidManifest.xml:25:9-28:40
+	android:exported
+		ADDED from [androidx.room:room-runtime:2.3.0] /Users/mvrcentes/.gradle/caches/transforms-3/c4924fb4221199a886f37a56f672a2a1/transformed/room-runtime-2.3.0/AndroidManifest.xml:28:13-37
+	android:directBootAware
+		ADDED from [androidx.room:room-runtime:2.3.0] /Users/mvrcentes/.gradle/caches/transforms-3/c4924fb4221199a886f37a56f672a2a1/transformed/room-runtime-2.3.0/AndroidManifest.xml:27:13-43
+	android:name
+		ADDED from [androidx.room:room-runtime:2.3.0] /Users/mvrcentes/.gradle/caches/transforms-3/c4924fb4221199a886f37a56f672a2a1/transformed/room-runtime-2.3.0/AndroidManifest.xml:26:13-74
